@@ -1,9 +1,9 @@
 {cluster_spec,"single_c200",
  [{cookie,"cookie_single_c200"},
   {dir,"single_c200"},	
-  {num_controllers,3},	
+  {num_controllers,1},	
   {controller_host_specs,["c200"]},
-  {num_workers,20},
+  {num_workers,5},
   {worker_host_specs,["c200"]}
  ]
 }.
