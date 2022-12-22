@@ -1,9 +1,0 @@
-{cluster_spec,"prototype_c201",
- [{cookie,"cookie_prototype_c201"},
-  {dir,"prototype_c201"},	
-  {num_controllers,1},	
-  {controller_host_specs,["c201"]},
-  {num_workers,2},
-  {worker_host_specs,["c201"]}
- ]
-}.
