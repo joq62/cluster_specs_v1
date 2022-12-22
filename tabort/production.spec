@@ -1,0 +1,9 @@
+{cluster_spec,"production_lgh",
+ [{cookie,"cookie_production_lgh"},
+  {dir,"production_lgh"},	
+  {num_controllers,1},	
+  {controller_host_specs,["c201"]},
+  {num_workers,10},
+  {worker_host_specs,["c201"]}
+ ]
+}.

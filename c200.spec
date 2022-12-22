@@ -1,9 +1,6 @@
 {cluster_spec,"c200",
  [{cookie,"cookie_c200"},
-  {dir,"c200"},	
-  {num_controllers,1},	
-  {controller_host_specs,["c200"]},
-  {num_workers,5},
-  {worker_host_specs,["c200"]}
+  {root_dir,"c201"},	
+  {pods,[{3,"c201"}]}
  ]
 }.
