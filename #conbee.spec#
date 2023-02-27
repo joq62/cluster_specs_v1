@@ -1,0 +1,6 @@
+{cluster_spec,"conbee",
+ [{cookie,"cookie_conbee"},
+  {root_dir,"conbee"},	
+  {pods,[{6,"c201"},]}
+ ]
+}.
